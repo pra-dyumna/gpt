@@ -1,0 +1,125 @@
+{
+    "ourIntents": [
+        {
+            "tag": "q1",
+            "prompt": ["Can you suggest a pet clinic near my location with good reviews?"],
+            "completion": ["Certainly! Please provide me with your current location, and I'll find a nearby pet clinic with good reviews for you."]
+        },
+        {
+            "tag": "q2",
+            "prompt": ["Could you give me the top 3 popular pet grooming services near Chandigarh and provide me with a link?"],
+            "completion": ["Sure! Here are the top 3 popular pet grooming services near Chandigarh:\n1. Grooming Service 1 [Link]\n2. Grooming Service 2 [Link]\n3. Grooming Service 3 [Link]"]
+        },
+        {
+            "tag": "q3",
+            "prompt": ["I want to request a refund for my recent pet service. How can I proceed with this?"],
+            "completion": ["I'm sorry to hear that. To request a refund for your recent pet service, please follow these steps: [Provide refund process]"]
+        },
+        {
+            "tag": "q4",
+            "prompt": ["I would like to request a cancellation for my upcoming appointment. How do I do that?"],
+            "completion": ["Of course. To cancel your upcoming appointment, please log into your account and navigate to the 'Appointments' section. You'll find an option to cancel the appointment there."]
+        },
+        {
+            "tag": "q5",
+            "prompt": ["I am not happy with the service I received. What should I do to address this issue?"],
+            "completion": ["I apologize for any inconvenience. To address this issue, please provide me with more details about your experience, and I'll help you escalate it to the relevant department for resolution."]
+        },
+        {
+            "tag": "q6",
+            "prompt": ["I want to report an issue with the service provider. How can I do that?"],
+            "completion": ["I'm here to help. To report an issue with the service provider, please share the details of the problem, and I'll assist you in submitting a report to the appropriate team."]
+        },
+        {
+            "tag": "q7",
+            "prompt": ["How can I change the language preference in the app? I want to change it to Hindi."],
+            "completion": ["You can easily change the language preference in the app settings. Go to the 'Settings' section, locate 'Language Preferences,' and select 'Hindi.' Your app will be in Hindi from now on."]
+        },
+        {
+            "tag": "q8",
+            "prompt": ["I want to change my currency. Can you guide me to the page where I can do that?"],
+            "completion": ["Sure thing! To change your currency, go to your account settings, find the 'Currency' option, and select your desired currency from the list."]
+        },
+        {
+            "tag": "q9",
+            "prompt": ["Can you connect me to Live Chat for real-time assistance?"],
+            "completion": ["Absolutely! I'm here to help. Please wait a moment while I connect you to a live chat agent for real-time assistance."]
+        },
+        {
+            "tag": "q10",
+            "prompt": ["I encountered an error message during payment with the error detail \"bla bla bla.\" Can you help resolve this issue?"],
+            "completion": ["I'm sorry for the inconvenience. The error message you encountered indicates [Explain the error]. Let's work together to resolve this. Have you tried [Troubleshooting steps]?"]
+        },
+        {
+            "tag": "q11",
+            "prompt": ["Please take me to ABC Petshop to book the Advance Grooming Package."],
+            "completion": ["Certainly! I've generated a direct link for you to book the Advance Grooming Package at ABC Petshop: [Link]"]
+        },
+        {
+            "tag": "q12",
+            "prompt": ["Can you recommend a pet trainer for my dog's behavior issues near my area?"],
+            "completion": ["Of course! To help you find a pet trainer for your dog's behavior issues, I'll need your location. Once you provide that, I'll suggest some options for you."]
+        },
+        {
+            "tag": "q13",
+            "prompt": ["I need help finding a reliable pet sitter for my upcoming vacation."],
+            "completion": ["No problem! I can assist you in finding a reliable pet sitter for your upcoming vacation. Please share your location, and I'll provide you with some options."]
+        },
+        {
+            "tag": "q14",
+            "prompt": ["hello mr ram what are doing?"],
+            "completion": ["Getting a pet through the app is easy. First, create an account if you haven't already. Then, browse available pets, select the one you like, and follow the adoption process outlined on the pet's profile."]
+        },
+        {
+            "tag": "q15",
+            "prompt": ["How will the chatbot handle user inquiries that it cannot answer? Will there be a seamless transition to live support, or will it direct users to specific help articles?"],
+            "completion": ["If the chatbot encounters a question it cannot answer, it will offer options for assistance. This includes providing relevant help articles, connecting you to live support, or escalating the issue to a human agent for further assistance."]
+        },
+        {
+            "tag": "q16",
+            "prompt": ["Can the chatbot provide users with real-time updates on their pet service appointments or orders?"],
+            "completion": ["Absolutely! The chatbot can provide you with real-time updates on your pet service appointments or orders. Just provide the necessary details, and I'll keep you informed."]
+        },
+        {
+            "tag": "q17",
+            "prompt": ["How will the chatbot handle sensitive information, such as user payment details or personal data? What security measures are in place to protect user privacy?"],
+            "completion": ["Protecting your privacy is a top priority. The chatbot follows strict security protocols to ensure the confidentiality of sensitive information. All interactions are encrypted, and your data is handled securely according to industry standards."]
+        },
+        {
+            "tag": "q18",
+            "prompt": ["Can the chatbot assist users in finding specific pet products or services based on their preferences or pet's needs?"],
+            "completion": ["Absolutely! The chatbot can help you find specific pet products or services based on your preferences or your pet's needs. Just let me know what you're looking for, and I'll provide you with options."]
+        },
+        {
+            "tag": "q19",
+            "prompt": ["Will the chatbot be able to offer personalized recommendations based on a user's previous interactions with the app?"],
+            "completion": ["Yes, indeed! The chatbot is designed to offer personalized recommendations based on your previous interactions with the app. The more you interact, the better it will understand your preferences."]
+        },
+        {
+            "tag": "q20",
+            "prompt": ["How frequently will the chatbot be updated with new information and responses to ensure it stays relevant and up-to-date?"],
+            "completion": ["The chatbot will undergo regular updates to ensure it stays relevant and up-to-date. New information and responses will be added as needed to provide the best customer experience."]
+        },
+        {
+            "tag": "q21",
+            "prompt": ["Can the chatbot interact with other features in the app, such as booking appointments or making reservations?"],
+            "completion": ["Absolutely! The chatbot is integrated with various app features, including booking appointments and making reservations. Just let me know what you need, and I'll guide you through the process."]
+        },
+        {
+            "tag": "q22",
+            "prompt": ["How will the chatbot handle user feedback and complaints? Will it escalate issues to a human support agent if necessary?"],
+            "completion": ["The chatbot is equipped to handle user feedback and complaints. If the issue requires human intervention, the chatbot will escalate the matter to a human support agent for further assistance."]
+        },
+        {
+            "tag": "q23",
+            "prompt": ["Can the chatbot provide users with information on pet-related events, workshops, or promotions happening in their area?"],
+            "completion": ["Absolutely! The chatbot can provide you with information on pet-related events, workshops, or promotions happening in your area. Just let me know your location, and I'll share the details."]
+        },
+        {
+            "tag": "q24",
+            "prompt": ["How will the chatbot handle user inquiries that are specific to different pet types, such as dogs, cats, or birds?"],
+            "completion": ["The chatbot is designed to provide information and assistance specific to different pet types, such as dogs, cats, or birds. When you mention the type of pet, I'll tailor my responses accordingly."]
+        }
+        
+    ]
+}
